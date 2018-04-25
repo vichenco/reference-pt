@@ -12,7 +12,7 @@ subCategories: [ "Tipos de Dados" ]
 
 [float]
 === Descrição
-Ints (integer ou inteiros) são o tipo o tipo de dados primário para armazenamento de números.
+Ints (integer ou inteiros) são o tipo de dados primário para armazenamento de números.
 
 No Arduino Uno (e outras placas baseadas em micros ATmega) um int armazena um valor 16-bit (2 bytes). Isso garante um intervalo de -32,768 a 32,767 (um valor mínimo de -2^15 e um valor máximo de (2^15) - 1).
 No Arduino Due e outras placas baseadas em micros SAMD (como o MKR1000 e Zero), um int armazena um valor 32-bit (4 bytes). O que garante um intervalo de -2,147,483,648 a 2,147,483,647 (um valor mínimo de -2^31 e um valor máximo de (2^31) - 1).
